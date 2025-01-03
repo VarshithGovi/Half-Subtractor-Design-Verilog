@@ -32,6 +32,11 @@ The **`half_subtractor.v`** file implements the half-subtractor logic:
 
 The **`half_subtractor_tb.v`** file verifies the functionality of the half-subtractor with various test cases. Outputs are logged in the terminal and exported to a **`.vcd`** file for waveform analysis.
 
+## 📸 Screenshots
+
+![gtkwave_hs](https://github.com/user-attachments/assets/405bea15-8ab2-4d71-b42d-92c39ae2ddaa)
+
+
 ## 🌟 Highlights
 
 - Beginner-friendly gate-level design.
