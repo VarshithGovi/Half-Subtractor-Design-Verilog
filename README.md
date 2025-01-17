@@ -9,7 +9,7 @@ Welcome to the **Half-Subtractor Design** project! 🎉 This repository showcase
 | **`hs.v`**    | Verilog module implementing the half-subtractor with gate-level modeling.   |
 | **`hs_tb.v`** | Testbench for **`half_subtractor.v`** to validate difference and borrow.    |
 | **`hs.vcd`**  | Value Change Dump file generated after simulation for waveform analysis.    |
-| **`hs.vvp`**  | Compiled simulation file created by Icarus Verilog.                        |
+| **`hs_tb.vvp`**  | Compiled simulation file created by Icarus Verilog.                        |
 | **`LICENSE`**              | MIT License details.                                                       |
 
 ## 📋 Half-Subtractor Implementation
